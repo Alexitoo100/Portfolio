@@ -17,7 +17,7 @@ info = ["AI & Big Data Analyst", "Full Stack Developer"]
 avatarURL = "images/avatar.png"
 dateFormat = "January 2, 2006"
 since = 2024
-commit = "https://github.com/alegarcia/alegarcia.dev/tree/"
+commit = "https://github.com/Alexitoo100/Portfolio/tree"
 rtl = false
 colorScheme = "auto"
 hideColorSchemeToggle = false
@@ -37,13 +37,13 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/alegarcia/"
+url = "https://github.com/Alexitoo100/Portfolio"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
-url = "https://www.linkedin.com/in/alegarcia/"
+url = "https://www.linkedin.com/in/alejandro-garc%C3%ADa-sal%C3%B3n-32a581263/"
 
 [languages.en]
 languageName = ":uk:"
