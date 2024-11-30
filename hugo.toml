@@ -37,7 +37,7 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/Alexitoo100/Portfolio"
+url = "https://github.com/Alexitoo100"
 
 [[params.social]]
 name = "LinkedIn"
@@ -66,7 +66,7 @@ title = "Alejandro García"
 
 [languages.es.params]
 author = "Alejandro García"
-info = ["Desarrollo de IA y Big Data", "Desarrollador Full Stack"]
+info = ["Desarrollador de IA y Big Data", "Desarrollador Full Stack"]
 description = "Sitio web personal de Alejandro García"
 keywords = "blog,desarrollador,personal,IA,big data,full stack"
 
