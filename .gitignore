@@ -1,0 +1,57 @@
+# Hugo specific
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+hugo.exe
+hugo.darwin
+hugo.linux
+.hugo_build.lock
+
+# WebStorm specific
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Node modules (if using npm/yarn for themes or other tools)
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Cache directories
+.cache/
+.npm/
+.eslintcache

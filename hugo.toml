@@ -1,0 +1,76 @@
+baseURL = "http://alegarcia.dev"
+title = "Alejandro Garcia"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 6
+enableEmoji = true
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Alejandro Garcia"
+description = "Alejandro Garcia's personal website"
+keywords = "blog,developer,personal,AI,big data,full stack"
+info = ["AI & Big Data Analyst", "Full Stack Developer"]
+avatarURL = "images/avatar.png"
+dateFormat = "January 2, 2006"
+since = 2024
+commit = "https://github.com/alegarcia/alegarcia.dev/tree/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/alegarcia/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/alegarcia/"
+
+[languages.en]
+languageName = ":uk:"
+title = "Alejandro Garcia"
+
+[languages.en.params]
+author = "Alejandro Garcia"
+info = ["AI & Big Data Analyst", "Full Stack Developer"]
+description = "Alejandro Garcia's personal website"
+keywords = "blog,developer,personal,AI,big data,full stack"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[languages.es]
+languageName = ":es:"
+title = "Alejandro García"
+
+[languages.es.params]
+author = "Alejandro García"
+info = ["Desarrollo de IA y Big Data", "Desarrollador Full Stack"]
+description = "Sitio web personal de Alejandro García"
+keywords = "blog,desarrollador,personal,IA,big data,full stack"
+
+[[languages.es.menu.main]]
+name = "Sobre mí"
+weight = 1
+url = "about/"
