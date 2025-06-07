@@ -33,6 +33,7 @@ My current focus is the integration of my Full Stack development skills with too
 
 - Specialization Course in Artificial Intelligence and Big Data, with hands-on training in:
 
+<<<<<<< HEAD
     - Machine Learning and Deep Learning
     - Neural Networks
     - Data processing with Spark, Flink, Hadoop, Kafka, Nifi, Sqoop, and Flume
@@ -42,6 +43,15 @@ My current focus is the integration of my Full Stack development skills with too
     - Data visualization and processing tools: Pandas, Matplotlib, OpenCV
     - AI frameworks: TensorFlow, Keras, Scikit-Learn
     - Cloud implementation with Amazon Web Services (AWS)
+=======
+ · Machine Learning and Deep Learning
+ · Neural Networks
+ · Data processing with Spark, Flink, and Hadoop
+ · Analytical languages: Python, R, and Scala
+ · Visualization and data processing tools: Pandas, Matplotlib, OpenCV
+ · AI frameworks: TensorFlow, Keras, Scikit-Learn
+ · Cloud implementation using Amazon Web Services (AWS)
+>>>>>>> main
 
 - Technician in Microcomputer Systems and Networks (SMR)
 - Higher Technician in Web Application Development (DAW)

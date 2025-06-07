@@ -36,6 +36,7 @@ Mi enfoque actual es la integración de mis capacidades en desarrollo Full Stack
 
 - Curso de Especialización en Inteligencia Artificial y Big Data, con formación práctica en:
 
+<<<<<<< HEAD
     - Machine Learning y Deep Learning
     - Redes Neuronales (Neuronal Networks)
     - Procesamiento de datos con Spark, Flink, Hadoop, Kafka, Nifi, Sqoop y Flume
@@ -45,6 +46,21 @@ Mi enfoque actual es la integración de mis capacidades en desarrollo Full Stack
     - Herramientas de visualización y procesamiento: Pandas, Matplotlib, OpenCV
     - Frameworks de IA: TensorFlow, Keras, Scikit-Learn
     - Implementación en entornos Cloud con Amazon Web Services (AWS)
+=======
+ · Machine Learning y Deep Learning
+
+ · Redes Neuronales (Neuronal Networks)
+
+ · Procesamiento de datos con Spark, Flink y Hadoop
+
+ · Lenguajes de análisis: Python, R y Scala
+
+ · Herramientas de visualización y procesamiento: Pandas, Matplotlib, OpenCV
+
+ · Frameworks de IA: TensorFlow, Keras, Scikit-Learn
+
+ · Implementación en entornos Cloud con Amazon Web Services (AWS)
+>>>>>>> main
 
 - Técnico en Sistemas Microinformáticos y Redes (SMR)
 - Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
