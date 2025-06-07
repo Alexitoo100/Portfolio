@@ -3,7 +3,8 @@ title = "Alejandro Garcia"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 6
+[pagination]
+  pagerSize = 10
 enableEmoji = true
 
 [markup.highlight]
