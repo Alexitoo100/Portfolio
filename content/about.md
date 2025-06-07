@@ -6,40 +6,54 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Alejandro Garcia"
 +++
 
-I am a professional with more than 6 months experience in programming, specializing in Full Stack development and currently expanding my knowledge in Artificial Intelligence and Big Data. I am passionate about both backend and frontend programming, and have built a solid track record in various languages and technologies.
+I am a development professional with experience in Full Stack programming and Artificial Intelligence applied to data analysis. I am passionate about designing and developing solutions in both frontend and backend, and I am currently complementing my profile with solid training in advanced AI and Big Data technologies.
 
 ## Professional Experience
 
-My background is versatile in software development, ranging from web applications to complex enterprise solutions. I have worked on various projects using a wide range of technologies and programming languages.
+My background is versatile in software development. I have hands-on experience in building software, ranging from modern web applications to robust enterprise solutions. I have participated in various projects using a wide variety of programming languages, frameworks, and technological environments.
 
 ## Current Focus
 
-I integrate my Full Stack development experience with new competencies in AI and Big Data, focusing especially on:
+My current focus is the integration of my Full Stack development skills with tools for massive data analysis and artificial intelligence, with emphasis in areas such as:
 
-- Full Stack Development (Frontend and Backend)
-- Artificial Intelligence and Machine Learning
-- Big Data Analysis
-- Web and Application Development
+· Full Stack Development (Frontend and Backend)
+· Artificial Intelligence and Machine Learning
+· Big Data analysis and processing
+· Web and application development
 
 ## Technical Skills
 
-🏅 Programming Languages: PHP, Java, JavaScript, Python  
-🏅 Frameworks: Angular, Spring, Hibernate, Bootstrap  
-🏅 Databases: SQL, MongoDB, PostgreSQL  
-🏅 Version Control: GIT
+🏅 Programming languages: PHP, Java, JavaScript, Python, R, Scala
+🏅 Frameworks and libraries: Angular, Spring, Bootstrap, TensorFlow, Flask, Jinja2, Keras, Scikit-Learn, Pandas, Matplotlib, OpenCV (CV2)
+🏅 Big Data & Cloud: Hadoop, Flume, Spark, Flink, Amazon Web Services (AWS)
+🏅 Databases: SQL, MongoDB, PostgreSQL
+🏅 Version control: GIT
 
 ## Education
 
-- Currently pursuing a Master's degree in Artificial Intelligence and Big Data
-- Graduate in Multiplatform Application Development
+- Specialization Course in Artificial Intelligence and Big Data, with hands-on training in:
+
+    - Machine Learning and Deep Learning
+    - Neural Networks
+    - Data processing with Spark, Flink, Hadoop, Kafka, Nifi, Sqoop, and Flume
+    - Real-time data ingestion and capture with Debezium and Apache Kafka
+    - Modern data transformation and layered modeling with DBT (Data Build Tool)
+    - Analysis languages: Python, R, and Scala
+    - Data visualization and processing tools: Pandas, Matplotlib, OpenCV
+    - AI frameworks: TensorFlow, Keras, Scikit-Learn
+    - Cloud implementation with Amazon Web Services (AWS)
+
+- Technician in Microcomputer Systems and Networks (SMR)
+- Higher Technician in Web Application Development (DAW)
 
 ## Notable Projects
 
-- Developed web applications using the MEAN stack (MongoDB, Express, Angular, Node.js)
-- Implemented robust backend solutions with Java and Spring Boot
-- Created interactive and responsive user interfaces with Angular, VueJS, and Bootstrap
-- Designed and optimized relational databases using PostgreSQL
+- I have developed web applications using the MEAN stack (MongoDB, Express, Angular, Node.js)
+- I have implemented robust backend solutions with Java and Spring Boot
+- I have created interactive and responsive user interfaces with Angular, VueJS, and Bootstrap
+- I have designed, modeled, and optimized relational databases using PostgreSQL
+- Development of predictive models and processing of large volumes of data using Spark, Python, and TensorFlow
 
 ## Professional Approach
 
-I firmly believe in continuous learning and adaptability in the ever-changing world of technology. My diverse experience allows me to bring innovative solutions to each project, combining my frontend and backend skills with my growing specialization in AI and Big Data. I constantly explore new technologies and methodologies to stay at the forefront of the IT sector.
+I firmly believe in continuous learning and adaptability in the ever-changing world of technology. My diverse experience allows me to bring innovative solutions to every project, combining my frontend and backend skills with my growing specialization in AI and Big Data. I constantly explore new technologies and methodologies to stay at the forefront of the IT sector.
