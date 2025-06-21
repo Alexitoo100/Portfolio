@@ -6,53 +6,40 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Alejandro Garcia"
 +++
 
-I am a development professional with experience in Full Stack programming and Artificial Intelligence applied to data analysis. I am passionate about designing and developing solutions in both frontend and backend, and I am currently complementing my profile with solid training in advanced AI and Big Data technologies.
+Hi! I'm Alejandro, a passionate developer who loves building meaningful solutions with modern technology. I combine full-stack web development with AI and data science to tackle real-world problems.
 
-## Professional Experience
+## What I Do
 
-My background is versatile in software development. I have hands-on experience in building software, ranging from modern web applications to robust enterprise solutions. I have participated in various projects using a wide variety of programming languages, frameworks, and technological environments.
+🚀 **Full Stack Development**  
+Building web applications from frontend to backend
 
-## Current Focus
+🤖 **AI & Machine Learning**  
+Creating intelligent systems and predictive models
 
-My current focus is the integration of my Full Stack development skills with tools for massive data analysis and artificial intelligence, with emphasis in areas such as:
+📊 **Big Data Processing**  
+Analyzing and processing large datasets
 
-· Full Stack Development (Frontend and Backend)
-· Artificial Intelligence and Machine Learning
-· Big Data analysis and processing
-· Web and application development
+🌍 **Open Source**  
+Contributing to projects that make a difference
 
-## Technical Skills
+## Recent Highlights
 
-🏅 Programming languages: PHP, Java, JavaScript, Python, R, Scala
-🏅 Frameworks and libraries: Angular, Spring, Bootstrap, TensorFlow, Flask, Jinja2, Keras, Scikit-Learn, Pandas, Matplotlib, OpenCV (CV2)
-🏅 Big Data & Cloud: Hadoop, Flume, Spark, Flink, Amazon Web Services (AWS)
-🏅 Databases: SQL, MongoDB, PostgreSQL
-🏅 Version control: GIT
+- 🏆 **NASA Space Apps Challenge Winner** (Valencia 2024)
+- 🐾 **Leading Hackapet** - Open source animal shelter platform
+- 🎓 **AI & Big Data Specialization** Graduate
+- 💼 **Professional Web Development** Experience
 
-## Education
+## Tech Stack
 
-- Specialization Course in Artificial Intelligence and Big Data, with hands-on training in:
-    - Machine Learning and Deep Learning
-    - Neural Networks
-    - Data processing with Spark, Flink, Hadoop, Kafka, Nifi, Sqoop, and Flume
-    - Real-time data ingestion and capture with Debezium and Apache Kafka
-    - Modern data transformation and layered modeling with DBT (Data Build Tool)
-    - Analysis languages: Python, R, and Scala
-    - Data visualization and processing tools: Pandas, Matplotlib, OpenCV
-    - AI frameworks: TensorFlow, Keras, Scikit-Learn
-    - Cloud implementation with Amazon Web Services (AWS)
+**Languages**: Python, JavaScript, PHP, Java, R, Scala  
+**Web**: Angular, Spring Boot, HTML/CSS, Bootstrap  
+**AI/ML**: TensorFlow, Keras, Scikit-Learn, OpenCV  
+**Data**: Hadoop, Spark, Kafka, AWS, PostgreSQL  
+**Tools**: Git, Docker, Linux
 
-- Technician in Microcomputer Systems and Networks (SMR)
-- Higher Technician in Web Application Development (DAW)
+## Let's Connect!
 
-## Notable Projects
+I'm always interested in challenging projects and collaboration opportunities. Whether it's building a web application, developing an AI solution, or contributing to open source - let's create something amazing together!
 
-- I have developed web applications using the MEAN stack (MongoDB, Express, Angular, Node.js)
-- I have implemented robust backend solutions with Java and Spring Boot
-- I have created interactive and responsive user interfaces with Angular, VueJS, and Bootstrap
-- I have designed, modeled, and optimized relational databases using PostgreSQL
-- Development of predictive models and processing of large volumes of data using Spark, Python, and TensorFlow
-
-## Professional Approach
-
-I firmly believe in continuous learning and adaptability in the ever-changing world of technology. My diverse experience allows me to bring innovative solutions to every project, combining my frontend and backend skills with my growing specialization in AI and Big Data. I constantly explore new technologies and methodologies to stay at the forefront of the IT sector.
+📍 Valencia, Spain  
+📧 alejandrogarciasalon@gmail.com

@@ -6,56 +6,40 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Alejandro García"
 +++
 
-Soy un profesional del desarrollo con experiencia en programación Full Stack e Inteligencia Artificial aplicada al análisis de datos. Me apasiona el diseño y desarrollo de soluciones tanto en frontend como en backend, y actualmente complemento mi perfil con una sólida formación en tecnologías avanzadas de IA y Big Data.
+¡Hola! Soy Alejandro, un desarrollador apasionado que ama construir soluciones significativas con tecnología moderna. Combino desarrollo web full-stack con IA y ciencia de datos para abordar problemas del mundo real.
 
-## Experiencia Profesional
+## Lo que hago
 
-Mi trayectoria es versátil en desarrollo de software, cuento con experiencia práctica en el desarrollo de software, desde aplicaciones web modernas hasta soluciones empresariales robustas. He participado en distintos proyectos con una amplia variedad de lenguajes, frameworks y entornos tecnológicos.
+🚀 **Desarrollo Full Stack**  
+Construyendo aplicaciones web desde frontend hasta backend
 
-## Enfoque Actual
+🤖 **IA y Machine Learning**  
+Creando sistemas inteligentes y modelos predictivos
 
-Mi enfoque actual es la integración de mis capacidades en desarrollo Full Stack con herramientas de análisis masivo de datos e inteligencia artificial, destacando en áreas como:
+📊 **Procesamiento Big Data**  
+Analizando y procesando grandes conjuntos de datos
 
-· Desarrollo Full Stack (Frontend y Backend)
+🌍 **Open Source**  
+Contribuyendo a proyectos que marcan la diferencia
 
-· Inteligencia Artificial y Machine Learning
+## Logros Recientes
 
-· Análisis y procesamiento de Big Data
+- 🏆 **Ganador NASA Space Apps Challenge** (Valencia 2024)
+- 🐾 **Liderando Hackapet** - Plataforma open source para refugios
+- 🎓 **Graduado Especialización IA & Big Data**
+- 💼 **Experiencia Profesional** en Desarrollo Web
 
-· Diseño y desarrollo de aplicaciones web
+## Stack Tecnológico
 
-## Habilidades Técnicas
+**Lenguajes**: Python, JavaScript, PHP, Java, R, Scala  
+**Web**: Angular, Spring Boot, HTML/CSS, Bootstrap  
+**IA/ML**: TensorFlow, Keras, Scikit-Learn, OpenCV  
+**Datos**: Hadoop, Spark, Kafka, AWS, PostgreSQL  
+**Herramientas**: Git, Docker, Linux
 
-🏅 Lenguajes de programación: PHP, Java, JavaScript, Python, R, Scala
-🏅 Frameworks y librerías: Angular, Spring, Bootstrap, TensorFlow, Flask, Jinja2, Keras, Scikit-Learn, Pandas, Matplotlib, OpenCV (CV2)
-🏅 Big Data & Cloud: Hadoop, Flume, Spark, Flink, Amazon Web Services (AWS)
-🏅 Bases de datos: SQL, MongoDB, PostgreSQL
-🏅 Control de versiones: GIT
+## ¡Conectemos!
 
-## Formación
+Siempre estoy interesado en proyectos desafiantes y oportunidades de colaboración. Ya sea construir una aplicación web, desarrollar una solución de IA, o contribuir a open source - ¡creemos algo increíble juntos!
 
-- Curso de Especialización en Inteligencia Artificial y Big Data, con formación práctica en:
-    - Machine Learning y Deep Learning
-    - Redes Neuronales (Neuronal Networks)
-    - Procesamiento de datos con Spark, Flink, Hadoop, Kafka, Nifi, Sqoop y Flume
-    - Ingesta y captura de datos en tiempo real con Debezium y Apache Kafka
-    - Transformación de datos moderna y modelado en capas con DBT (Data Build Tool)
-    - Lenguajes de análisis: Python, R y Scala
-    - Herramientas de visualización y procesamiento: Pandas, Matplotlib, OpenCV
-    - Frameworks de IA: TensorFlow, Keras, Scikit-Learn
-    - Implementación en entornos Cloud con Amazon Web Services (AWS)
-
-- Técnico en Sistemas Microinformáticos y Redes (SMR)
-- Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
-
-## Proyectos Destacados
-
-- He desarrollado aplicaciones web utilizando el stack MEAN (MongoDB, Express, Angular, Node.js)
-- He implementado soluciones de backend robustas con Java y Spring Boot
-- He creado interfaces de usuario interactivas y responsivas con Angular, VueJS y Bootstrap
-- He diseñado, modelado y optimizado bases de datos relacionales utilizando PostgreSQL
-- Desarrollo de modelos predictivos y procesamiento de grandes volúmenes de datos usando Spark, Python y TensorFlow
-
-## Enfoque Profesional
-
-Creo firmemente en el aprendizaje continuo y la adaptabilidad en el cambiante mundo de la tecnología. Mi experiencia diversa me permite aportar soluciones innovadoras a cada proyecto, combinando mis habilidades en frontend y backend con mi creciente especialización en IA y Big Data. Constantemente exploro nuevas tecnologías y metodologías para mantenerme a la vanguardia en el sector de la informática.
+📍 Valencia, España  
+📧 alejandrogarciasalon@gmail.com

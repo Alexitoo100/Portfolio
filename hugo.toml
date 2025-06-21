@@ -13,8 +13,8 @@ noClasses = false
 [params]
 author = "Alejandro Garcia"
 description = "Alejandro Garcia's personal website"
-keywords = "blog,developer,personal,AI,big data,full stack"
-info = ["AI & Big Data Analyst", "Full Stack Developer"]
+keywords = "blog,developer,personal,AI,big data,full stack,NASA,space apps,hackapet"
+info = ["AI & Big Data Analyst", "Full Stack Developer", "Open Source Contributor"]
 avatarURL = "images/avatar.webp"
 dateFormat = "January 2, 2006"
 since = 2024
@@ -24,7 +24,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 customCSS = []
-customSCSS = []
+customSCSS = ["scss/custom.scss"]
 customJS = []
 customRemoteJS = []
 
@@ -46,20 +46,36 @@ icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://www.linkedin.com/in/alejandro-garc%C3%ADa-sal%C3%B3n-32a581263/"
 
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 3
+url = "mailto:alejandrogarciasalon@gmail.com"
+
 [languages.en]
 languageName = ":uk:"
 title = "Alejandro Garcia"
 
 [languages.en.params]
 author = "Alejandro Garcia"
-info = ["AI & Big Data Analyst", "Full Stack Developer"]
+info = ["AI & Big Data Analyst", "Full Stack Developer", "Open Source Contributor"]
 description = "Alejandro Garcia's personal website"
-keywords = "blog,developer,personal,AI,big data,full stack"
+keywords = "blog,developer,personal,AI,big data,full stack,NASA,space apps,hackapet"
 
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
 url = "about/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
 
 [languages.es]
 languageName = ":es:"
@@ -67,11 +83,21 @@ title = "Alejandro García"
 
 [languages.es.params]
 author = "Alejandro García"
-info = ["Desarrollador de IA y Big Data", "Desarrollador Full Stack"]
+info = ["Analista de IA y Big Data", "Desarrollador Full Stack", "Contribuidor Open Source"]
 description = "Sitio web personal de Alejandro García"
-keywords = "blog,desarrollador,personal,IA,big data,full stack"
+keywords = "blog,desarrollador,personal,IA,big data,full stack,NASA,space apps,hackapet"
 
 [[languages.es.menu.main]]
 name = "Sobre mí"
 weight = 1
 url = "about/"
+
+[[languages.es.menu.main]]
+name = "Proyectos"
+weight = 2
+url = "projects/"
+
+[[languages.es.menu.main]]
+name = "Contacto"
+weight = 3
+url = "contact/"
